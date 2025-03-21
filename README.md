@@ -25,7 +25,7 @@ void loop()
 
 <p align="center"><a href="https://githu.com"><img src="https://graph.org/file/665fde4492fa3b20a48d0-4a03dca46fa5577aac.jpg" width="400"></a></p>
 
-Q Program Arduino uno using Light Sensitive Sensor.
+Q2 Program Arduino uno using Light Sensitive Sensor.
 
 int sensorValue=0;
 
@@ -57,7 +57,7 @@ fade=map(sensorValue,0,1023,255,0);
  
 }
 
-<p align="center"><a href="https://githu.com"><img src="https://graph.org/file/665fde4492fa3b20a48d0-4a03dca46fa5577aac.jpg" width="400"></a></p>
+<p align="center"><a href="https://githu.com"><img src="https://graph.org/file/5d39d8016f9ab5f0468cb-6bc3ae0d3407078434.jpg" width="400"></a></p>
 
 Q3 Program Arduino uno using Temperature Sensor.
 
@@ -90,7 +90,7 @@ void loop() {
   
 }
 
-<p align="center"><a href="https://githu.com"><img src="https://graph.org/file/665fde4492fa3b20a48d0-4a03dca46fa5577aac.jpg" width="400"></a></p>
+<p align="center"><a href="https://githu.com"><img src="https://graph.org/file/f7dfa30990bba3e47bdd5-23b0f60d9f3f754743.jpg" width="400"></a></p>
 
 Q4 Program Arduino uno using Humidity Sensor
 
@@ -121,7 +121,7 @@ humiditySensorOutput=analogRead(AnalogIn);
   
 }
 
-<p align="center"><a href="https://githu.com"><img src="https://graph.org/file/665fde4492fa3b20a48d0-4a03dca46fa5577aac.jpg" width="400"></a></p>
+<p align="center"><a href="https://githu.com"><img src="https://graph.org/file/dd9dc6ca5aa9eedc33bb1-e69958674fcc3ed984.jpg" width="400"></a></p>
 
 Q5 Program Arduino uno using Ultra Sonic Sensor.
 
@@ -164,7 +164,7 @@ Serial.println("cm");
 delay(500);
 }
 
-<p align="center"><a href="https://githu.com"><img src="https://graph.org/file/665fde4492fa3b20a48d0-4a03dca46fa5577aac.jpg" width="400"></a></p>
+<p align="center"><a href="https://githu.com"><img src="https://graph.org/file/88423ce22b0c612fe5f83-08c87cc3e6a64a8bb7.jpg" width="400"></a></p>
 
 Q6 Program Arduino uno using PIR Sensor.
 
