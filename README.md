@@ -219,7 +219,7 @@ void loop() {
   delay(200);
 }
 
-<p align="center"><a href="https://githu.com"><img src="https://graph.org/file/665fde4492fa3b20a48d0-4a03dca46fa5577aac.jpg" width="400"></a></p>
+<p align="center"><a href="https://githu.com"><img src="https://graph.org/file/3706bff3cd2dcd5f5e0bb-6bfd76dcfd4dc3add1.jpg" width="400"></a></p>
 
 Q7 Program Arduino uno using Servo motor
 
@@ -246,4 +246,4 @@ void loop(){
 
 }
 
-<p align="center"><a href="https://githu.com"><img src="https://graph.org/file/665fde4492fa3b20a48d0-4a03dca46fa5577aac.jpg" width="400"></a></p>
+<p align="center"><a href="https://githu.com"><img src="https://graph.org/file/290ee67aac52e8d7417b9-19baa5599aaeb0de74.jpg" width="400"></a></p>
